@@ -2078,18 +2078,12 @@ NONSENSE ALPHABETS.
     And who made a nice house
     In the side of a hill.
 
-            a!
-     Nice little ant!
-
             B
 
     B was a book
     With a binding of blue,
     And pictures and stories
     For me and for you.
-
-            b!
-     Nice little book!
 
             C
 
@@ -2098,18 +2092,12 @@ NONSENSE ALPHABETS.
     But his courage did fail
     When she seized on his tail.
 
-            c!
-      Crafty old cat!
-
             D
 
     D was a duck
     With spots on his back,
     Who lived in the water,
     And always said "Quack!"
-
-            d!
-      Dear little duck!
 
             E
 
@@ -2118,18 +2106,12 @@ NONSENSE ALPHABETS.
     He had tusks and a trunk,
     And two queer little eyes.
 
-            e!
-    Oh, what funny small eyes!
-
             F
 
     F was a fish
     Who was caught in a net;
     But he got out again,
     And is quite alive yet.
-
-            f!
-      Lively young fish!
 
             G
 
@@ -2138,18 +2120,12 @@ NONSENSE ALPHABETS.
     When he did not lie still
     He walked up and down.
 
-            g!
-      Good little goat!
-
             H
 
     H was a hat
     Which was all on one side;
     Its crown was too high,
     And its brim was too wide.
-
-            h!
-      Oh, what a hat!
 
             I
 
@@ -2158,18 +2134,12 @@ NONSENSE ALPHABETS.
     But which nobody tasted;
     And so it was wasted.
 
-            i!
-    All that good ice!
-
             J
 
     J was a jackdaw
     Who hopped up and down
     In the principal street
     Of a neighboring town.
-
-            j!
-     All through the town!
 
             K
 
@@ -2178,18 +2148,12 @@ NONSENSE ALPHABETS.
     Above houses so high,
     Quite into the sky.
 
-            k
-       Fly away, kite!
-
             L
 
     L was a light
     Which burned all the night,
     And lighted the gloom
     Of a very dark room.
-
-            l!
-     Useful nice light!
 
             M
 
@@ -2198,18 +2162,12 @@ NONSENSE ALPHABETS.
     And turned round and round
     With a loud hummy sound.
 
-            m!
-      Useful old mill!
-
             N
 
     N was a net
     Which was thrown in the sea
     To catch fish for dinner
     For you and for me.
-
-            n!
-      Nice little net!
 
             O
 
@@ -2218,18 +2176,12 @@ NONSENSE ALPHABETS.
     When it fell off the tree,
     It fell down to the ground.
 
-            o!
-    Down to the ground!
-
             P
 
     P was a pig,
     Who was not very big;
     But his tail was too curly,
     And that made him surly.
-
-            p!
-    Cross little pig!
 
             Q
 
@@ -2238,18 +2190,12 @@ NONSENSE ALPHABETS.
     And he fed upon corn
     In the evening and morn.
 
-            q!
-    Quaint little quail!
-
             R
 
     R was a rabbit,
     Who had a bad habit
     Of eating the flowers
     In gardens and bowers.
-
-            r!
-     Naughty fat rabbit!
 
             S
 
@@ -2258,18 +2204,12 @@ NONSENSE ALPHABETS.
     To take up the sugar
     To put in our tea.
 
-            s!
-       Nippity-nee!
-
             T
 
     T was a tortoise,
     All yellow and black:
     He walked slowly away,
     And he never came back.
-
-            t!
-    Torty never came back!
 
             U
 
@@ -2278,18 +2218,12 @@ NONSENSE ALPHABETS.
     And full of hot water
     At noon and at night.
 
-            u!
-     Useful old urn!
-
             V
 
     V was a villa
     Which stood on a hill,
     By the side of a river,
     And close to a mill.
-
-            v!
-    Nice little villa!
 
             W
 
@@ -2298,18 +2232,12 @@ NONSENSE ALPHABETS.
     Whose movements were frantic
     Across the Atlantic.
 
-            w!
-   Monstrous old whale!
-
             X
 
     X was King Xerxes,
     Who, more than all Turks, is
     Renowned for his fashion
     Of fury and passion.
-
-            x!
-    Angry old Xerxes!
 
             Y
 
@@ -2318,9 +2246,6 @@ NONSENSE ALPHABETS.
     By a quiet abode
     Near the side of a road.
 
-            y!
-     Dark little yew!
-
             Z
 
     Z was some zinc,
@@ -2328,12 +2253,7 @@ NONSENSE ALPHABETS.
     Which caused you to wink
     In the sun's merry light.
 
-            z!
-       Beautiful zinc!
-
             A
-
-            a
 
     A was once an apple-pie,
         Pidy,
@@ -2345,8 +2265,6 @@ NONSENSE ALPHABETS.
 
             B
 
-            b
-
     B was once a little bear,
         Beary,
         Wary,
@@ -2356,8 +2274,6 @@ NONSENSE ALPHABETS.
       Little bear!
 
             C
-
-            c
 
     C was once a little cake,
         Caky,
@@ -2369,8 +2285,6 @@ NONSENSE ALPHABETS.
 
             D
 
-            d
-
     D was once a little doll,
         Dolly,
         Molly,
@@ -2380,8 +2294,6 @@ NONSENSE ALPHABETS.
       Little doll!
 
             E
-
-            e
 
     E was once a little eel,
         Eely,
@@ -2393,8 +2305,6 @@ NONSENSE ALPHABETS.
 
             F
 
-            f
-
     F was once a little fish,
         Fishy,
         Wishy,
@@ -2404,8 +2314,6 @@ NONSENSE ALPHABETS.
       Little fish!
 
             G
-
-            g
 
     G was once a little goose,
         Goosy,
@@ -2417,8 +2325,6 @@ NONSENSE ALPHABETS.
 
             H
 
-            h
-
     H was once a little hen,
         Henny,
         Chenny,
@@ -2428,8 +2334,6 @@ NONSENSE ALPHABETS.
       Little hen?
 
             I
-
-            i
 
     I was once a bottle of ink
         Inky,
@@ -2441,8 +2345,6 @@ NONSENSE ALPHABETS.
 
             J
 
-            j
-
     J was once a jar of jam,
         Jammy,
         Mammy,
@@ -2452,8 +2354,6 @@ NONSENSE ALPHABETS.
         Jar of jam!
 
             K
-
-            k
 
     K was once a little kite,
         Kity,
@@ -2465,8 +2365,6 @@ NONSENSE ALPHABETS.
 
             L
 
-            l
-
     L was once a little lark,
         Larky,
         Marky,
@@ -2476,8 +2374,6 @@ NONSENSE ALPHABETS.
       Little lark!
 
             M
-
-            m
 
     M was once a little mouse,
         Mousy,
@@ -2489,8 +2385,6 @@ NONSENSE ALPHABETS.
 
             N
 
-            n
-
     N was once a little needle,
         Needly,
         Tweedly,
@@ -2500,8 +2394,6 @@ NONSENSE ALPHABETS.
       Little needle!
 
             O
-
-            o
 
     O was once a little owl,
         Owly,
@@ -2513,8 +2405,6 @@ NONSENSE ALPHABETS.
 
             P
 
-            p
-
     P was once a little pump,
         Pumpy,
         Slumpy,
@@ -2524,8 +2414,6 @@ NONSENSE ALPHABETS.
         Little pump!
 
             Q
-
-            q
 
     Q was once a little quail,
         Quaily,
@@ -2537,8 +2425,6 @@ NONSENSE ALPHABETS.
 
             R
 
-            r
-
     R was once a little rose,
         Rosy,
         Posy,
@@ -2548,8 +2434,6 @@ NONSENSE ALPHABETS.
        Little rose!
 
             S
-
-            s
 
     S was once a little shrimp,
         Shrimpy,
@@ -2561,8 +2445,6 @@ NONSENSE ALPHABETS.
 
             T
 
-            t
-
     T was once a little thrush,
         Thrushy,
         Hushy,
@@ -2572,8 +2454,6 @@ NONSENSE ALPHABETS.
       Little thrush!
 
             U
-
-            u
 
     U was once a little urn,
            Urny,
@@ -2585,8 +2465,6 @@ NONSENSE ALPHABETS.
 
             V
 
-            v
-
     V was once a little vine,
         Viny,
         Winy,
@@ -2596,8 +2474,6 @@ NONSENSE ALPHABETS.
       Little vine!
 
             W
-
-            w
 
     W was once a whale,
         Whaly,
@@ -2609,8 +2485,6 @@ NONSENSE ALPHABETS.
 
             X
 
-            x
-
     X was once a great king Xerxes,
           Xerxy,
           Perxy,
@@ -2621,8 +2495,6 @@ NONSENSE ALPHABETS.
 
             Y
 
-            y
-
     Y was once a little yew,
         Yewdy,
         Fewdy,
@@ -2632,8 +2504,6 @@ NONSENSE ALPHABETS.
       Little yew!
 
             Z
-
-            z
 
     Z was once a piece of zinc,
         Tinky,
@@ -2650,20 +2520,12 @@ NONSENSE ALPHABETS.
     And tied up his toes
     In four beautiful bows.
 
-            a!
-
-    Funny old ape!
-
             B
 
     B was a bat,
     Who slept all the day,
     And fluttered about
     When the sun went away.
-
-            b!
-
-    Brown little bat!
 
             C
 
@@ -2672,20 +2534,12 @@ NONSENSE ALPHABETS.
     And if you fell off,
     You came down such a bump!
 
-            c!
-
-    What a high camel!
-
             D
 
     D was a dove,
     Who lived in a wood,
     With such pretty soft wings,
     And so gentle and good!
-
-            d!
-
-    Dear little dove!
 
             E
 
@@ -2694,20 +2548,12 @@ NONSENSE ALPHABETS.
     And looked down on the fields
     And the-far-away flocks.
 
-            e!
-
-    Beautiful eagle!
-
             F
 
     F was a fan
     Made of beautiful stuff;
     And when it was used,
     It went puffy-puff-puff!
-
-            f!
-
-    Nice little fan!
 
             G
 
@@ -2716,20 +2562,12 @@ NONSENSE ALPHABETS.
     To be made into jam,
     And eaten with bread.
 
-            g!
-
-    Gooseberry red!
-
             H
 
     H was a heron,
     Who stood in a stream:
     The length of his neck
     And his legs was extreme.
-
-            h!
-
-    Long-legged heron!
 
             I
 
@@ -2738,20 +2576,12 @@ NONSENSE ALPHABETS.
     With a nice pen to write with
     When we are able.
 
-            i!
-
-    Neat little inkstand!
-
             J
 
     J was a jug,
     So pretty and white,
     With fresh water in it
     At morning and night.
-
-            j!
-
-    Nice little jug!
 
             K
 
@@ -2760,20 +2590,12 @@ NONSENSE ALPHABETS.
     So bright and so pretty!--
     Green, purple, and blue.
 
-            k!
-
-    Kingfisher blue!
-
             L
 
     L was a lily,
     So white and so sweet!
     To see it and smell it
     Was quite a nice treat.
-
-            l!
-
-    Beautiful lily!
 
             M
 
@@ -2782,20 +2604,12 @@ NONSENSE ALPHABETS.
     And he wore a long coat
     That came down to the ground.
 
-            m!
-
-    Funny old man!
-
             N
 
     N was a nut
     So smooth and so brown!
     And when it was ripe,
     It fell tumble-dum-down.
-
-            n!
-
-    Nice little nut!
 
             O
 
@@ -2804,20 +2618,12 @@ NONSENSE ALPHABETS.
     If you let him alone,
     He felt perfectly well.
 
-            o!
-
-    Open-mouthed oyster!
-
             P
 
     P was a polly,
     All red, blue, and green,--
     The most beautiful polly
     That ever was seen.
-
-            p!
-
-    Poor little polly!
 
             Q
 
@@ -2826,20 +2632,12 @@ NONSENSE ALPHABETS.
     But I do not know where,
     And I cannot say when.
 
-            q!
-
-    Nice little quill!
-
             R
 
     R was a rattlesnake,
     Rolled up so tight,
     Those who saw him ran quickly,
     For fear he should bite.
-
-            r!
-
-    Rattlesnake bite!
 
             S
 
@@ -2848,20 +2646,12 @@ NONSENSE ALPHABETS.
     And then it was fastened
     Without any locks.
 
-            s!
-
-    Valuable screw!
-
             T
 
     T was a thimble,
     Of silver so bright!
     When placed on the finger,
     It fitted so tight!
-
-            t!
-
-    Nice little thimble!
 
             U
 
@@ -2870,20 +2660,12 @@ NONSENSE ALPHABETS.
     To wear over all
     In the snow or the storm.
 
-            u!
-
-    What a nice upper-coat!
-
             V
 
     V was a veil
     With a border upon it,
     And a ribbon to tie it
     All round a pink bonnet.
-
-            v!
-
-    Pretty green veil!
 
             W
 
@@ -2892,20 +2674,12 @@ NONSENSE ALPHABETS.
     The hour of the day
     You might always behold.
 
-            w!
-
-    Beautiful watch!
-
             X
 
     X was King Xerxes,
     Who wore on his head
     A mighty large turban,
     Green, yellow, and red.
-
-            x!
-
-    Look at King Xerxes!
 
             Y
 
@@ -2914,20 +2688,12 @@ NONSENSE ALPHABETS.
     Except his white tail,
     He was all black as jet.
 
-            y!
-
-    Look at the yak!
-
             Z
 
     Z was a zebra,
     All striped white and black;
     And if he were tame,
     You might ride on his back.
-
-            z!
-
-    Pretty striped zebra!
 
 NONSENSE BOTANY.
 
